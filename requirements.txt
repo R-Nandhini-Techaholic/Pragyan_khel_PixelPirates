@@ -1,6 +1,7 @@
 streamlit
 ultralytics
-opencv-python
+opencv-python-headless
+# Remove the headless while running local, headless is for deployement 
 numpy
 streamlit-image-coordinates
 streamlit-webrtc
