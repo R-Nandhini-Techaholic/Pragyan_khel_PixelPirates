@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+streamlit-image-coordinates
+streamlit-webrtc
+lapx
+torch
+torchvision
