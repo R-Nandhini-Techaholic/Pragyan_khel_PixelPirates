@@ -3,6 +3,8 @@
 An AI-powered **computer vision analytics system** built for the **Pragyan Khel technical challenge**.  
 PixelPirates combines **YOLOv8** object detection with a **Streamlit interactive dashboard** to process visual data, track entities, and generate real-time gameplay insights.
 
+# Deployed Link
+#https://pixelpiratespragyan.streamlit.app/
 ---
 
 ## 🚀 Key Highlights
